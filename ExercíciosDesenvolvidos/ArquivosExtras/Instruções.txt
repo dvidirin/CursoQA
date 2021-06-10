@@ -1,0 +1,5 @@
+1 - Colocar a pasta "browserdrivers" no C:\ da sua máquina.
+
+2 - Para rodar a tarefa "Tarefa0806" tem que pegar o arquivo "selenium-server-standalone-3.141.59.jar" e adicionar como biblioteca extra no Intellij ou Eclipse, seguindo as instruções do documento "COMO ADICIONAR A BILBIOTECA DO SELENIUM NO IDE INTELLIJ IDEA.pdf"
+
+3 - Para rodar a tarefa "Tarefa0906" foi necessário adicionar o selenium através do maven, seguindo as instruções do documento "Como executar teste automatizado do google.pdf", acredito que já está feito no código.
